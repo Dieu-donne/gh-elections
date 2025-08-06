@@ -28,6 +28,11 @@ export const metadata = {
         rel: 'icon',
         url: '/icons/ghana-icon.png',
         type: 'image/png',
+      },
+      {
+        rel: 'icon',
+        url: '/icons/ghana-icon.png',
+        type: 'image/png',
         sizes: '16x16',
       },
       {
